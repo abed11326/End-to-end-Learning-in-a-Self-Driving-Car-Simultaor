@@ -7,4 +7,4 @@ batch_size = 64
 no_workers = 8
 no_epochs = 20
 lr = 0.0001
-val_percent = 0.15
+val_percent = 0.1
